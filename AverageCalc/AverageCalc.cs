@@ -11,7 +11,7 @@ namespace AverageCalc
     {
         public static void Main(string[] args)
         {
-            var average = 0;
+            double average = 0.0;
             var inputNumber = 0;
             int counter = 0;
             
