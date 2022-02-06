@@ -3,3 +3,6 @@
 
 ### AverageCalc
 - Calculates the average of numbers input into console.
+
+### TicTacToe
+- Console tic tac toe game.
